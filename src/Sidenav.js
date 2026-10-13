@@ -172,7 +172,7 @@ export default function Sidenav() {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" noWrap component="div" sx={{ flexGrow: 1, textAlign: 'center' }}>
-              <img src="./icons/jio.png" height={40} alt='Jio Logo' style={{ margin: '0 auto', display: 'block' }} />
+              <img src="./icons/jio1.png" height={40} alt='Jio Logo' style={{ margin: '0 auto', display: 'block' }} />
             </Typography>
             <Box sx={{ display: 'flex', alignItems: 'center'}}>
               <IconButton
